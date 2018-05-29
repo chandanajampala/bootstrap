@@ -1,0 +1,22 @@
+body{
+    background-color: #6AC5AC;
+}
+
+
+.box{
+    align-self: auto;
+    background-color:white;
+    display: flex;
+    flex-direction: column;
+    padding-left:  5px;
+    margin: 15px;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    
+}
+
+img {
+    height: 55px;
+    width: 40px;
+}
