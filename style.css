@@ -2,12 +2,13 @@ body{
     background-color: #6AC5AC;
 }
 
-
+.container-fluid {
+    padding: 70px;
+}
 .box{
-    align-self: auto;
+    
     background-color:white;
-    display: flex;
-    flex-direction: column;
+
     padding-left:  5px;
     margin: 15px;
     height: 250px;
